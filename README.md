@@ -1,2 +1,2 @@
-# Account-generator-tool-password-generator-and-more...
+# passwords and accounts generator
 You must download Python to use the tool
